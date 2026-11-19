@@ -1,0 +1,86 @@
+{
+  "_ayuda": "Estados: beta (prueba cerrada abierta: grupo + enlace de Play), lista (lista de espera: grupo de Google; si grupo_activo es false, el botón lleva a seguirnos), publicado (enlace de Google Play), desarrollo (sin botón de apuntarse). Cambia solo esto para mover un juego de estado.",
+  "analitica": "",
+  "redes": {
+    "instagram": "https://www.instagram.com/zenitztudio/",
+    "youtube": "https://www.youtube.com/@zenitztudio",
+    "tiktok": "https://www.tiktok.com/@zenit.ztudio"
+  },
+  "juegos": [
+    {
+      "id": "rustfall",
+      "nombre": "Rustfall",
+      "subtitulo": "Colony Survival",
+      "texto": "Lead a handful of survivors through the wasteland. Scavenge, build and hold out against the raids.",
+      "genero": "Colony sim · Pixel art",
+      "estado": "beta",
+      "imagen": "img/rustfall.webp",
+      "icono": "img/rustfall-icon.webp",
+      "grupo": "https://groups.google.com/g/rustfall-testers",
+      "grupo_activo": true,
+      "prueba": "https://play.google.com/apps/testing/studio.zenit.rustfall",
+      "play": "https://play.google.com/store/apps/details?id=studio.zenit.rustfall",
+      "privacidad": "oxido/privacidad.html"
+    },
+    {
+      "id": "war-tides",
+      "nombre": "War Tides",
+      "subtitulo": "Naval Warfare WW2",
+      "texto": "Real-time naval strategy. 35 historical missions, from the River Plate to Okinawa. Every battle really happened.",
+      "genero": "Strategy · WW2",
+      "estado": "lista",
+      "imagen": "img/war-tides.webp",
+      "icono": "img/war-tides-icon.webp",
+      "grupo": "https://groups.google.com/g/war-tides-testers",
+      "grupo_activo": false,
+      "prueba": "https://play.google.com/apps/testing/studio.zenit.wartides",
+      "play": "https://play.google.com/store/apps/details?id=studio.zenit.wartides",
+      "privacidad": "war-tides/privacidad.html"
+    },
+    {
+      "id": "frontera",
+      "nombre": "Frontera",
+      "subtitulo": "1438",
+      "texto": "Tactical pixel-art battles on the Castile–Granada frontier. Hold the walls, break the gate, win the border.",
+      "genero": "Tactics · Medieval",
+      "estado": "lista",
+      "imagen": "img/frontera.webp",
+      "icono": "img/frontera-icon.webp",
+      "grupo": "https://groups.google.com/g/frontera-testers",
+      "grupo_activo": false,
+      "prueba": "https://play.google.com/apps/testing/studio.zenit.frontera",
+      "play": "https://play.google.com/store/apps/details?id=studio.zenit.frontera",
+      "privacidad": "frontera/privacidad.html"
+    },
+    {
+      "id": "scrap-empire",
+      "nombre": "Scrap Empire",
+      "subtitulo": "Idle Factory",
+      "texto": "Crush, smelt, get paid. Grow a tiny scrapyard into an empire, one forklift at a time.",
+      "genero": "Idle · Tycoon",
+      "estado": "lista",
+      "imagen": "img/scrap-empire.webp",
+      "icono": "",
+      "grupo": "https://groups.google.com/g/scrap-empire-testers",
+      "grupo_activo": false,
+      "prueba": "https://play.google.com/apps/testing/studio.zenit.scrapempire",
+      "play": "https://play.google.com/store/apps/details?id=studio.zenit.scrapempire",
+      "privacidad": "scrap-empire/privacidad.html"
+    },
+    {
+      "id": "ant-plague",
+      "nombre": "Ant Plague",
+      "subtitulo": "Tower Defense",
+      "texto": "Defend grandma's cake from a plague of ants, with whatever you can find around the house. Thousands of them.",
+      "genero": "Tower defense · Hordes",
+      "estado": "desarrollo",
+      "imagen": "img/ant-plague.webp",
+      "icono": "",
+      "grupo": "https://groups.google.com/g/ant-plague-testers",
+      "grupo_activo": false,
+      "prueba": "",
+      "play": "",
+      "privacidad": ""
+    }
+  ]
+}
